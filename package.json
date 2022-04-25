@@ -1,0 +1,16 @@
+{
+  "name": "rollup-issue",
+  "version": "1.0.0",
+  "description": "testing an issue with rollup plugin",
+  "private": true,
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "author": "Patrick McElhaney",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@web/dev-server": "^0.1.31",
+    "@web/dev-server-rollup": "^0.3.15"
+  }
+}

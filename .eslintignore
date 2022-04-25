@@ -1,0 +1,3 @@
+stryker.conf.json
+_templates/**
+storybook-static
