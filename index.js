@@ -1,1 +1,2 @@
-import('./import-me.js');
+import 'left-pad';
+import './import-me.js';
